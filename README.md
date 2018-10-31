@@ -4,7 +4,7 @@ Welcome to the .layer community-tasks repo! This repo aims to centralize all the
 
 ## Who we are
 
-.layer is basically an open-source minded platform/community in which everyone shares a common passion for data science and machine learning. The community doesn't have leaders or hierarchy of any kind. It's just a bunch of people beleiving in free collaborative work where all deliberately acts as contributors to each other ideas and projects. The .layer community is nothing but its members who togheter form ideas, relationships and dreams.
+.layer is basically an open-source minded platform/community in which everyone shares a common passion for data science and machine learning. The community doesn't have leaders or hierarchy of any kind. It's just a bunch of people believing in free collaborative work where all deliberately act as contributors to each other ideas and projects. The .layer community is nothing but its members who together form ideas, relationships and dreams.
 
 ## What we do
 
