@@ -1,0 +1,50 @@
+## Présences
+- Jean-Thomas Baillargeon
+- Jean-Christophe Yelle
+- David Beauchemin
+- Stephane Caron
+- Nicolas Garneau
+
+## Ouverture de compte chez Desjardins
+Deux signataire: JT et Steph
+Demandes de remboursement via pull request sur le repo github.com
+
+## Meetup de l'automne passé
+L'argent de tous les commanditaire a été reçu, reste à distribuer aux fournisseurs.
+
+## Rédaction de la charte
+Rédaction ongoing, on va l'utiliser de manière formelle plutôt qu'un appareil légal.
+- Mi juillet pour la version beta
+- 4 semaine pour la période d'acceptation
+- 2 semaine pour modifications de dernière minutes
+- Présentation fin août au chalet
+
+## Chalet 2019
+- Endroit: Mi-Chemin entre Québec- Montréal (Shawi)
+- Présentations
+- 23-24-25 août ou 16-17-18 août
+- Activité financement? Augmenter le prix pour le weekend
+- Planifier un Hackathon?
+- Planifier des activités autres
+
+## Comité
+- Points techniques à définir lors de la charte
+- Impliquer les membres dans les comités, opportunités
+- Proposer une implication dans des activités
+- Avoir une liste des membres qui veulent et se sont impliqué dans le passé
+- Différence entre comité exécutif (soft) et sporadique
+
+## Autre activités
+- Meetup en Juin: Finance et Fintech
+- Refaire un activité d'assurance?
+- Proposition d'une problématique par une compagnie
+- Conférence
+
+## Promouvoir dot-layer
+- Comment présenter dot-layer
+- Clarifier la page facebook
+- Abaisser le niveau pour targeter plus précisémment dans d'autre mediums
+- Channel Slack pour les actions à faire sur la page facebook
+
+David close le deal
+JT seconde.
