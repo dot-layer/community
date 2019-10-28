@@ -1,0 +1,35 @@
+## Présences
+- Jean-Thomas Baillargeon
+- Jean-Christophe Yelle
+- David Beauchemin
+- Stephane Caron
+
+## Retour sur sondage .Layer
+	- 18 réponses au total (quand même bien)
+	- 18 réponses positives pour la charte (on considère acceptée)
+	- 14 sur 18 répondu "membre actif"
+		- On conclut que ya une bonne proportion des gens qui veulent s,impliquer ou participer
+
+## Comités
+	- Réponses assez positives dans le sondage aussi
+	- Steph: s'occupe de mettre en place le comité blog
+	- JT: mettre en place le comité social 
+	- Nic/Dave: s'occupe de mettre en place le comité Meetup
+	- Sam Peroch: mettre en place le comité chalet
+	
+	- On veut vraiment essayer de déléguer ces taches. On veut donner du ownership au monde qui vont contribuer. Le but c'est de drafter un plan pour la prochaine année et 
+	  mettre en contact les gens concernés.
+		- Est-ce qu'on utilise des channels du slack pour les comités ? Si oui, quel slack?
+
+## Cotisations
+	- On est tous d'accord sur la cotisation. On va faire une courte analyse des couts fixes pour déterminer un premier montant (~10$/année).
+	- JT/Nic/Dave: s'occupent de drafter un petit texte qui explique pourquii on veut instaurer une cotisation (couts fixes + objectifs)
+
+## Plan pour la prochaine année
+	- On aimerait avoir des objectifs plus clairs pour la prochaine année (pas une obligation de les atteindre, ou d'etre decus de ne pas les atteindre, plus une ligne directrice)
+	- Steph: occupe de faire un recap de la premiere année avec différents axes
+	- Tous: on fait une auto-appréciation des axes 
+	- Basé sur cette retroaction et sur les objectifs des comités, on établit les objectifs pour la prochaine année
+
+Steph close le deal.
+David seconde.
