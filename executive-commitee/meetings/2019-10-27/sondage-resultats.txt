@@ -1,0 +1,19 @@
+nom;charte;membre;comite
+camile besse;yes;actif;aucun
+bruno tremblay;yes;actif;aucun
+guillaume chevalier;yes;actif;blog et meetup
+marie-pier cote;yes;actif;aucun
+crazy train;yes;actif;aucun
+jean-christophe yelle;yes;actif;aucun
+simon valois;yes;actif;blog
+alexandre moreau;yes;passif;aucun
+christopher blier-wong;yes;actif;blog
+;yes;actif;meetup
+;yes;actif;blog
+;yes;passif;aucun
+;yes;actif;autre
+;yes;actif;aucun
+;yes;actif;blog
+;yes;passif;social
+;yes;actif;chalet
+;yes;passif;social
