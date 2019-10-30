@@ -1,6 +1,6 @@
 nom;charte;membre;comite
 camile besse;yes;actif;aucun
-bruno tremblay;yes;actif;aucun
+bruno tremblay;yes;actif;meetup
 guillaume chevalier;yes;actif;blog et meetup
 marie-pier cote;yes;actif;aucun
 crazy train;yes;actif;aucun
