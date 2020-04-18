@@ -1,0 +1,10 @@
+## Proposition agenda pour AG 2020
+
+Voici les points qu'on pourrait couvrir lors de l'AG:
+
+- Bref retour sur l'OSBL (pas allez trop dans le détails et répéter des trucs qu'on a deja dit). -> Steph
+- État des comptes de l'OSBL (dépenses/revenus, mecanisme de comptabilité GitHub) -> JT
+- Proposition pour les membres actifs (on propose 10$ pour la 1er année, expliquer pourquoi cotisation, voter pour confirmer le montant) -> David
+- Conclusion sur projets futurs (meetup en ligne, projet COVID ou autres analyse de données, blog, etc) -> Nic & Jee
+
+On finit avec une période discussions + bière en ligne (c'est tu possible de créer des sous-groupes si on est bcp?)
