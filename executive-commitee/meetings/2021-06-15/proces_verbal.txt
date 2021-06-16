@@ -1,0 +1,38 @@
+Présences:
+  - Mathieu Godbout
+  - Marco-Samuel Maurais
+  - David Beauchemin
+
+
+Passation des pouvoirs:
+
+On entre chacun en contact avec la dernière personne occupant notre poste.
+On s'est splittés la liste de choses à faire que Stéphane avait envoyée:
+
+  - Mathieu : s'occuper d'ajouter les infos de la dernière élection auprès d'Annie
+  - Marco : s'occuper de faire les corrections du conseil d'administration au registre des entreprises
+            et aller demander aux membres dont le paiement est dû de faire le virement.
+
+GSuite et nom de domaine:
+
+Tel que discuté à l'AGA, David va créer une adresse courriel dédiée à 
+.Layer pour recevoir les versements Interac. David se charge aussi de faire 
+renouveler le nom de domaine du site web.
+
+
+Prochains CAs:
+
+On veut se rencontrer au moins une fois aux 3 mois. Mathieu contactera 
+tout le monde au moins 1 mois avant l'échéance pour fixer une date de rencontre.
+
+
+Varia:
+
+On veut solliciter l'écriture de nouveaux articles sur le blogue. Mathieu 
+et Marco aimeraient en écrire un chacun.
+
+On aimerait organiser un hackathon A21 ou H22. David contacte son contact
+chez Drave Développement qui lui avait pitché une idée de hackathon sur 
+des données ouvertes.
+
+FIN DE RÉUNION
