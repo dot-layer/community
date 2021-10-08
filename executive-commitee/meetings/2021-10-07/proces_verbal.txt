@@ -1,0 +1,25 @@
+Présences:
+  - Mathieu Godbout
+  - David Beauchemin
+
+
+GSuite:
+  - David a essayé de le faire marcher, mais ça requiert une authentification du nom de domaine qui n'est pas facilement obtenable.
+    Il est convenu de seulement conserver l'adresse existante dans ce cas.
+
+
+Paiements de membres:
+  - Certains membres ont leur abonnement qui est venu à échéance depuis la dernière rencontre.
+    Le trésorier devrait les contacter pour obtenir le renouvellement.
+
+
+Passation des pouvoirs:
+  - Les tâches de Mathieu n'ont pas été faites. C'est à faire pour la prochaine rencontre.
+    Pas de nouvelles pour l'OSBL étant donnné l'absence de Marco-Samuel.
+
+Comptabilité via Github:
+  - On se demande si la comptabilité via PR sur Github est encore d'actualité étant donné les connaissances limitées de Marco-Samuel avec Github.
+    Il est décidé qu'étant donné la transparence et l'archivage qui viennent par défaut avec Github, c'est préférable de continuer là-dessus.
+    On va donc faire la comptabilité entre nous (Mathieu et David), en gardant Marco-Samuel dans la loop via courriel.
+
+
