@@ -1,0 +1,45 @@
+Présences:
+  - Mathieu Godbout
+  - David Beauchemin
+
+Absences:
+  - Marco-Samuel Maurais
+
+Talking points:
+- Évènement R à Québec: les organisateurs ont communiqué avec David pour que 
+                        .Layer s'associe avec l'évènement et participe à l'organisation. 
+                        La tâche est minimale et l'exposure est intéressante. L'évènement 
+                        2023 arrive trop vite pour que ça fonctionne mais l'intérêt est 
+                        présent pour participer en 2024.       
+
+- Outil de comptabilité: Ça scalerait mieux d'avoir un outil dédidé que la 
+                         solution actuelle sur git. Il est décidé d'attendre
+                         que la tâche comptable soit plus lourde avant de 
+                         faire un move, probablement que le besoin viendrait
+			 avec la participation à R à Québec 2024.
+
+- Évènements à venir:    Meetup ce jeudi chez Coveo. On veut essayer de créer
+			 un momentum.
+
+- État des inscriptions: Il va falloir vérifier ça, mais pour l'instant on 
+			 doit faire revivre un peu la communauté pour que 
+			 quiconque trouve de la valeur dans un membership.
+
+- Obligations annuelles: À valider avec le registraire et Revenu Québec.
+
+- Plan de match FY23:    Essayer de faire revivre le blogue. Le reach est intéressant
+			 et ça fait une belle vitrine. Il faut penser à des idées 
+			 d'incitatifs pour motiver les gens à publier.
+
+			 Pas de chalet en 2023 mais une idée similaire. Le chalet 
+			 fait trop boys-club et pas assez family-friendly. On 
+			 pense à une formule BBQ similaire à la 2ème journée du 
+			 chalet habituel. À voir pour un endroit où faire ça.
+			 
+			 On va faire une annonce ce jeudi au meetup pour dire
+			 qu'on veut repartir le blogue et faire un BBQ cet été,
+			 donc qu'on invite les intéressés à nous joindre.
+
+Tâches:
+- Mathieu: organiser prochaine rencontre & faire message meetup Coveo
+- Marco-Samuel: vérifier obligations annuelles.
